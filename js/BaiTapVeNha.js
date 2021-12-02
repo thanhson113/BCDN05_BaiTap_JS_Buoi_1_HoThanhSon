@@ -49,7 +49,7 @@ console.log("Diện tích hình chữ nhật là: "+ ereaRectangle);
  * Bài 5: Tính tổng 2 kí số
  * 
  * Khối 1: Input
- * number, ten, unit
+ * number
  * 
  * 
  * Khối 2: Các bước xử lý
